@@ -1,0 +1,3 @@
+cat stringtie_merged.gff3 | awk '{print $10}'
+
+
